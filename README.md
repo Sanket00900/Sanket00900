@@ -47,17 +47,17 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 
 ## Connect with me  
 <div align="center">
- <a href="https://www.linkedin.com/in/nishant-bhosale-6777241b6/" target="_blank">
+ <a href="https://www.linkedin.com/in/sanket-jagdale-09/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 
-<a href="https://github.com/Nishant-Bhosale" target="_blank">
+<a href="https://github.com/Sanket00900" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
 
-<a href="https://www.instagram.com/nishant_bhosale3/" target="_blank">
+<a href="https://www.instagram.com/sanket.jagdale_09/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=Orange alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -76,7 +76,7 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/SanketJagdale-09.svg?style=social&label=Follow"></img>
+<img src="https://img.shields.io/github/followers/Sanket00900.svg?style=social&label=Follow"></img>
 
 <img src="https://gpvc.arturio.dev/Sanket00900"></img>
 </div>
