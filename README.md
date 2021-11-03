@@ -60,7 +60,6 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 
 <!--
 ### Recent Projects 👨‍💻
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=TheGamerDiary&show_icons=true&theme=monokai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=amazon-clone&show_icons=true&theme=jolly"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=portfolio&show_icons=true&theme=great-gatsby"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=MovieApp&show_icons=true&theme=great-gatsby">
 </div>
