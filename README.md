@@ -2,11 +2,9 @@
 <h1 align="center">I am a Web Developer</h1>
 
 <br>
-
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?&user=Sanket00900"/>
 </div>
-
 <br>
 <br>
 <div align="center">
