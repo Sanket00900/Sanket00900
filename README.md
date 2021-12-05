@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Sanket Jagdale <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+
+<h1 align="center"># Hello there! 👋🏻 I am Sankert Jagdale! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1>
 <h1 align="center">I am a Web Developer</h1>
 
 <br>
@@ -38,11 +39,15 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 - 🌱 I’m currently learning nodejs. 
 
 <br>
+ 
+  [![Sanket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sanket00900)](https://git.io/J1Ycx)
 
-<div align="center">
+
    <img src="https://github-readme-stats.vercel.app/api?username=Sanket00900&show_icons=true&theme=cobalt"></img>
-</div>
+<!--   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket00900) | -->
 
+ 
+ 
 ## Connect with me  
 <div align="center">
  <a href="https://www.linkedin.com/in/sanket-jagdale-09/" target="_blank">
