@@ -40,7 +40,7 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 
 <br>
  
-  [![Sanket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sanket00900)](https://git.io/J1Ycx)
+  [![Sanket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sanket00900)]
 
 
    <img src="https://github-readme-stats.vercel.app/api?username=Sanket00900&show_icons=true&theme=cobalt"></img>
