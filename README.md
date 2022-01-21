@@ -4,7 +4,7 @@
 
 <br>
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?&user=Sanke0900"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?&user=Sanket00900"/>
 </div>
 <br>
 <br>
