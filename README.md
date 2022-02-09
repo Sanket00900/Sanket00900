@@ -35,8 +35,8 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 <br>
 <br>
 
-- 🔭 I’m currently working on one Frontend Website Project. 
-- 🌱 I’m currently learning nodejs. 
+- 🔭 I’m currently working on Full-Stack Website. 
+- 🌱 I’m currently learning MongoDB. 
 
 <br>
  
