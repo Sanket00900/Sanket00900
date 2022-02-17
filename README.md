@@ -65,11 +65,11 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 </div>
 
 
-### Recent Projects 👨‍💻
+<!-- ### Recent Projects 👨‍💻
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Covisistant_icons=true&theme=monokai">  -->
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Covisistant&show_icons=true&theme=jolly"> 
-</div>
+</div> -->
 
 
 <div align="center">
