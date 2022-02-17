@@ -1,5 +1,5 @@
 
-<h1 align="center"># Hello there! 👋🏻 I am Sankert Jagdale! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1>
+<h1 align="center"># Hello there! 👋🏻 I am Sanket Jagdale! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1>
 <h1 align="center">I am a Web Developer</h1>
 
 <br>
@@ -10,11 +10,12 @@
 <br>
 <div align="center">
 👨‍🎓I am Sanket Jagdale, currently embarking on my engineering journey from Vishwakarma Institute of Technology, Pune.<br/>
-💻I am a **Frontend Web Developer** as well as an 📱**Programming Enthusiast.**<br/>
+💻I am a **FullStack Web Developer** as well as an 📱**Programming Enthusiast.**<br/>
 I love❤ to make **Exciting Projects**. <br/>
 I really enjoy learning🚀 new languages and frameworks like **React⚛**.<br/>
 I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 <div>
+ 
 <h1>Technical Skills 🛠</h1>
 
 <p align="center"> 
@@ -36,7 +37,7 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 <br>
 
 - 🔭 I’m currently working on Full-Stack Website. 
-- 🌱 I’m currently learning MongoDB. 
+- 🌱 I’m currently learning MongoDB and DSA. 
 
 <br>
  
@@ -58,7 +59,7 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/sanket.jagdale_09/" target="_blank">
+<a href="https://www.instagram.com/sanket00900/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=Orange alt=instagram style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -75,7 +76,7 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/Sanket00900.svg?style=social&label=Follow"></img>
+<!-- <img src="https://img.shields.io/github/followers/Sanket00900.svg?style=social&label=Follow"></img> -->
 
 <img src="https://gpvc.arturio.dev/Sanket00900"></img>
 </div>
