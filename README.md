@@ -41,7 +41,7 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 
 <br>
  
-  ![Sanket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sanket00900)]
+  ![Sanket's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sanket00900)
 
 
    <img src="https://github-readme-stats.vercel.app/api?username=Sanket00900&show_icons=true&theme=cobalt"></img>
@@ -64,12 +64,13 @@ I also love **python🐍, java** and "Cool Electronics Stuff.<br/>
 </a>
 </div>
 
-<!--
+
 ### Recent Projects 👨‍💻
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=TheGamerDiary&show_icons=true&theme=monokai"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=amazon-clone&show_icons=true&theme=jolly"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=portfolio&show_icons=true&theme=great-gatsby"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishant-Bhosale&repo=MovieApp&show_icons=true&theme=great-gatsby">
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Covisistant_icons=true&theme=monokai">  -->
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Covisistant&show_icons=true&theme=jolly"> 
 </div>
--->
+
 
 <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
