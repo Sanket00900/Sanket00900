@@ -98,9 +98,8 @@ I also love Cool Electronics Stuff.<br/>
 
 <!-- ### Recent Projects 👨‍💻
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Covisistant_icons=true&theme=monokai">  -->
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Covisistant&show_icons=true&theme=jolly"> 
-</div> -->
+<!--  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Covisistant&show_icons=true&theme=jolly">  -->
+</div> 
 
 
 <div align="center">
@@ -113,4 +112,3 @@ I also love Cool Electronics Stuff.<br/>
 <img src="https://gpvc.arturio.dev/Sanket00900"></img>
 </div>
 
----
