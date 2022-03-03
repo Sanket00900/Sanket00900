@@ -16,7 +16,6 @@
 <br>
 <br>
 
-
 <div align="center">
 👨‍🎓I am Sanket Jagdale, currently embarking on my engineering journey from Vishwakarma Institute of Technology, Pune.<br/>
 💻I am a 🧑‍💻FullStack Web Developer as well as 🧑‍💻 Programmer💻<br/>
