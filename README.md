@@ -4,9 +4,9 @@
 
 <p align='center'>
 <a target="_blank" href="https://www.linkedin.com/in/sanket-jagdale-09/"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://github.com/Sanket0090"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/sanket.00900/"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/instagram.png"></a>&nbsp;&nbsp;
-<a href="mailto:sanketsjagdale999@gmail.com"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/mail.png"></a>
+<a target="_blank" href="https://github.com/Sanket0090"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/twitter.png"></a>&nbsp;&nbsp;
+<a target="_blank" href="https://www.instagram.com/sanket.00900/"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/instagram.png"></a>&nbsp;&nbsp;
+<a target="_blank" href="mailto:sanketsjagdale999@gmail.com"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/mail.png"></a>
 </p>
 
 <br>
