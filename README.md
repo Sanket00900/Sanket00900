@@ -11,7 +11,8 @@
 
 <br>
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanket00900&theme=dark&hide_border=true&line_height=27&width=27"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanket00900&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img src="(https://git.io/streak-stats"/>
 </div>
 <br>
 <br>
