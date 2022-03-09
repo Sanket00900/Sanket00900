@@ -1,6 +1,6 @@
 <img src="computer.gif" width="100%"/>
 <h1 align="center">Hello there! 👋🏻 I am Sanket Jagdale! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1>
-<h1 align="center">I am a Web Developer</h1>
+<h1 align="center">I am a Web Developer<
 
 <p align='center'>
 <a target="_blank" href="https://www.linkedin.com/in/sanket-jagdale-09/"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/linkedin.png"></a>&nbsp;&nbsp;
