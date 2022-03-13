@@ -1,6 +1,9 @@
-<img src="computer.gif" width="100%"/>
-<h1 align="center">Hello there! 👋🏻 I am Sanket Jagdale! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1>
-<h1 align="center">I am a Web Developer</h1>
+<!-- <img src="computer.gif" width="100%"/> -->
+<div align="center"><img src="github-header-image.png" width="95%"/></div>
+<br>
+<br>
+<!-- <h1 align="center">Hello there! 👋🏻 I am Sanket Jagdale! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1> -->
+<!-- <h1 align="center">I am a Web Developer</h1> -->
 
 <p align='center'>
 <a target="_blank" href="https://www.linkedin.com/in/sanket-jagdale-09/"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/linkedin.png"></a>&nbsp;&nbsp;
