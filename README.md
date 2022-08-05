@@ -14,11 +14,13 @@
 </p>
 
 <br>
+
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?&user=Sanket00900&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
- <img src="(https://git.io/streak-stats"/>
+<img src="https://img.shields.io/github/followers/Sanket00900.svg?style=social&label=Follow"></img>
+ <img src="https://gpvc.arturio.dev/Sanket00900"></img> 
 </div>
 <br>
+
 <br>
 
 
@@ -38,6 +40,12 @@ I also love Cool Electronics Stuff.<br/>
  
 <br>
  
+ <div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?&user=Sanket00900&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img src="(https://git.io/streak-stats"/>
+</div>
+<br> 
+  
 <h1>Technical Skills 🛠</h1>
 <p align="center"> 
 <div> <h3>Languages </h3> </div>
@@ -113,11 +121,3 @@ I also love Cool Electronics Stuff.<br/>
 <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
-
-<div align="center">
-<!-- <img src="https://img.shields.io/github/followers/Sanket00900.svg?style=social&label=Follow"></img> -->
- <img src="https://gpvc.arturio.dev/Sanket00900"></img> 
-
-
-</div>
-
