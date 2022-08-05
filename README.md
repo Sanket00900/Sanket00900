@@ -1,9 +1,10 @@
 <!-- <img src="computer.gif" width="100%"/> -->
 <div align="center"><img src="github-header-image.png" width="95%"/></div>
 <br>
-<br>
-<!-- <h1 align="center">Hello there! 👋🏻 I am Sanket Jagdale! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1> -->
-<!-- <h1 align="center">I am a Web Developer</h1> -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Problem+Solver;Content+Creator;Technical+Writer&center=true&width=500&height=70"></a>
+
 
 <p align='center'>
 <a target="_blank" href="https://www.linkedin.com/in/sanket-jagdale-09/"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/linkedin.png"></a>&nbsp;&nbsp;
@@ -20,10 +21,8 @@
 <br>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanket00900&theme=onestar&title=MultiLanguage,Commits,Followers,Stars,Repositories,PullRequest" width="800" alt="ssj" /></a> </p>
 
-
-
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanket00900&theme=onestar&title=MultiLanguage,Commits,Followers,Stars,Repositories,PullRequest" width="800" alt="ssj" /></a> </p> -->
 
 
 <div align="center">
@@ -97,7 +96,7 @@ I also love Cool Electronics Stuff.<br/>
 <img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanket00900&theme=vue"/>
 </div>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sanket00900&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket00900&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sanket00900&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket00900&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
  
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Sanket00900&show_icons=true&theme=cobalt"/> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket00900"/> -->
@@ -117,7 +116,8 @@ I also love Cool Electronics Stuff.<br/>
 
 <div align="center">
 <!-- <img src="https://img.shields.io/github/followers/Sanket00900.svg?style=social&label=Follow"></img> -->
+ <img src="https://gpvc.arturio.dev/Sanket00900"></img> 
 
-<img src="https://gpvc.arturio.dev/Sanket00900"></img>
+
 </div>
 
