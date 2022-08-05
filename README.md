@@ -29,13 +29,11 @@
 
 <div align="center">
 👨‍🎓I am Sanket Jagdale, currently embarking on my engineering journey from Vishwakarma Institute of Technology, Pune.<br/>
-💻I am a 🧑‍💻FullStack Web Developer as well as 🧑‍💻 Programmer💻<br/>
-I love❤ to make Exciting Projects  ✨<br/>
+💻I am a 🧑‍💻FullStack Web Developer🧑‍💻 Problem Solver💻 Content Creator🌟 Technical Writer✍🏼 <br/>
+I love❤ to make Exciting Projects✨<br/>
 I really enjoy learning new languages and technologies.<br/>
-I also love Cool Electronics Stuff.<br/>
-
 🌟 I’m currently working on Full-Stack Website. 
-🌱 I’m currently learning DSA. 
+🌱 I’m currently learning BlockChain and DSA. 
 <div>
  
 <br>
