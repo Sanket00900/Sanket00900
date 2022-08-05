@@ -3,9 +3,10 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Problem+Solver;Content+Creator;Technical+Writer&center=true&width=500&height=70"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Problem+Solver;Content+Creator;Technical+Writer&center=true&color=f75c7e&width=500&height=70"></a>
 
 
+  
 <p align='center'>
 <a target="_blank" href="https://www.linkedin.com/in/sanket-jagdale-09/"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/linkedin.png"></a>&nbsp;&nbsp;
 <a target="_blank" href="https://github.com/Sanket0090"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/twitter.png"></a>&nbsp;&nbsp;
@@ -87,14 +88,14 @@ I also love Cool Electronics Stuff.<br/>
 
 </p>
 
-<br>
-<br>
 
 <br>
  
-<div align="center">
-<img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanket00900&theme=vue"/>
-</div>
+<p align="center">
+    <a href="https://github.com/Sanket00900/">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Sanket00900&theme=chartreuse-dark" />
+  </a>
+</p>
 
 <!-- <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Sanket00900&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket00900&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
  
