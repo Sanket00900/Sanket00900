@@ -20,6 +20,12 @@
 <br>
 <br>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sanket00900&theme=onestar&title=MultiLanguage,Commits,Followers,Stars,Repositories,PullRequest" width="800" alt="ssj" /></a> </p>
+
+
+
+
+
 <div align="center">
 👨‍🎓I am Sanket Jagdale, currently embarking on my engineering journey from Vishwakarma Institute of Technology, Pune.<br/>
 💻I am a 🧑‍💻FullStack Web Developer as well as 🧑‍💻 Programmer💻<br/>
