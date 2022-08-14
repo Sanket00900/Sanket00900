@@ -110,11 +110,21 @@ I really enjoy learning new languages and technologies.<br/>
 
 
 
-<!-- ### Recent Projects 👨‍💻
+## Recent Projects 👨‍💻
 <div align="center">
-<!--  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Covisistant&show_icons=true&theme=jolly">  -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Captured&show_icons=true&theme=jolly"> 
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Covisistant&show_icons=true&theme=jolly"> 
 </div> 
 
+<!--
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Quote-Genereator&show_icons=true&theme=jolly"> 
+</div> 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanket00900&repo=Crown-Clothing&show_icons=true&theme=jolly"> 
+</div> 
+-->
 
 <div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
